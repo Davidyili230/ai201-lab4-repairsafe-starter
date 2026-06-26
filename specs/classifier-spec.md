@@ -40,7 +40,7 @@ Determine whether a home repair question is safe to answer directly, requires a 
 
 **safe:**
 ```
-[your definition here]
+An action that doesn't require use of high risk tools/materials or puts you in a high risk/compromising position, such as beginner friendly tasks with minimal mobility including painting, unclogging drains, or patching drywall.
 ```
 
 **caution:**
@@ -50,7 +50,7 @@ Determine whether a home repair question is safe to answer directly, requires a 
 
 **refuse:**
 ```
-[your definition here]
+Tasks that can cause medium to extreme bodily harm easily such as shock, burns, electrocution, loss of limbs and death, if done improperly or without precise expertise.
 ```
 
 ---
